@@ -1,0 +1,144 @@
+{
+    "basics": {
+      "name": "Francisco Javier Carrera Huerta",
+      "label": "Desarrollador .Net Mid, FrontEnd Jr Vue.Js Angular",
+      "image": "/me.webp",
+      "email": "francisco.javier.carrera.huerta@hotmail.com",
+      "phone": "(771) 416-5084",
+      "url": "",
+      "summary": "Soy Desarrollador .Net con poco más de 5 años de experiencia, proactivo y autodidacta con un sólido conocimiento en el desarrollo de software. Mi enfoque se centra en el desarrollo backend utilizando tecnologías como .NET y .Net Core en C#, he trabajado con los estándares ASP .NET ASP .NET MVC 5 y Windows Forms con más de 5 años de experiencia; combinado con una fuerte habilidad en el desarrollo frontend con Angular, JavaScript, bootstrap e iniciando en Vue.Js. Con un historial probado en la creación de soluciones eficientes y de alta calidad, estoy comprometido con la mejora continua y la búsqueda constante de nuevas habilidades. Mi pasión por la programación y la resolución de problemas me impulsa a ofrecer resultados excepcionales en proyectos desafiantes. Actualmente en búsqueda de mi siguiente oportunidad que me permita desarrollar mis conocimientos en backend y frontend",
+      "location": {
+        "address": "",
+        "postalCode": "42083",
+        "city": "Pachuca de Soto",
+        "countryCode": "MX",
+        "region": "Hidalgo"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "fancisco-javie-carrera",
+          "url": "https://www.linkedin.com/in/francisco-javier-carrera-5b1055161/"
+        },
+        {
+          "network": "GitHub",
+          "username": "FranciscoJavierCarrera",
+          "url": "https://github.com/FranciscoJavierCarrera"
+        }
+      ]
+    },
+    "work": [{
+      "name": "TECAS",
+      "position": "Desarrollador .Net Core",
+      "url": "https://tecreemos.com/",
+      "startDate": "2022-05-16",
+      "endDate": "2023-07-31",
+      "summary": "Me desenvolví como desarrollador .Net Core Backend, especialmente enfocado en producto individual, en esta area  realizaba tareas que implicaban cambios y ajustes en el backend para lacomunicación con servicios de terceros, también apoyando en soporte de incidencia relacionadas con dicho producto.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "ALFASOLUCIONES(Consultoria en Negocios y ERP SA de CV )",
+      "position": "Consultor Desarrollador .Net",
+      "url": "https://alfasoluciones.com.mx/",
+      "startDate": "2018-09-16",
+      "endDate": "2022-05-15",
+      "summary": "Como consultor en desarrollos y desarrollador .Net, me inicie en el framework .NET y por parte del frontend trabajando con Angular  en esta empresa desde entonces desarrolle diferentes sistemas que interactúan con sistemas ASPEL SAE, COI y Banco, por mencionar algunos, portales de Pedidos, sistemas de producción, Kioskos de facturación, sistemas de timbrado,etc. Involucrado desde el levantamiento de requerimiento con el cliente, análisis y diseño de la solución, diseño de la base de datos, maquetación de la solución, desarrollo e implementación de este, hasta llegar al soporte.",
+      "highlights": [
+        "Started the company"
+      ]
+    }],
+    "education": [{
+      "institution": "Instituto Tecgologico de México campus Pachuca",
+      "url": "https://itp.itpachuca.edu.mx/",
+      "area": "Ing en Sistemas Computacionales",
+      "studyType": "Bachelor",
+      "startDate": "2011-08-01",
+      "endDate": "2016-12-01",
+      "score": "8.3"
+    }],
+    "skills": [
+      {
+        "name": "Web Development(BackEnd)",
+        "level": "Middle",
+        "keywords": [
+          "ASP .NET",
+          ".NET CORE 3.1",
+          "ENTITYFRAMEWORK",
+          "API REST",
+          ".NET"
+        ]
+      },{
+      "name": "Web Development(FrontEnd)",
+      "level": "Middle",
+      "keywords": [
+        "ASP .NET MVC",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Angular",
+        "Vue.Js"
+      ]
+    },
+    
+    {
+      "name": "DESARROLLO DESKTOP",
+      "level": "Jr",
+      "keywords": [
+        "ASP .NET",
+        "C#",
+        "WINDOWS FORMS",
+        "SERVICIOS DE WINDOWS EN C#"
+      ]
+    },{
+      "name": "DATA BASE",
+      "level": "JR",
+      "keywords": [
+        "SQL SERVER",
+        "MYSQL",
+        "FIREBIRD"
+      ]
+    },{
+      "name": "ADMINISTRACION DE PROYECTOS",
+      "level": "Middle",
+      "keywords": [
+        "SCRUM","Github"
+      ]
+    }],
+    "languages": [{
+      "language": "Español",
+      "fluency": "Lengua Madre"
+    }],
+    
+    "projects": [{
+      "name": "SISTEMA DE PRODUCCIÓN",
+      "startDate": "2020-08-01",
+      "endDate": "2023-08-01",
+      "description": "Sistema de producción que se conecta con Aspel SAE, para el alta, modificación de productos e inventario, el cual lleva el proceso de la creación del producto final (Envases), llevando el control de la materia prima, almacenes de consumo, plantas, portafolio de productos, ingresos a almacén, etc.",
+      "highlights": [
+        "SAE","Producción"
+      ],
+      "url": ""
+    },{
+      "name": "SERVICIOS DE FACTURACIÓN",
+      "startDate": "2023-08-01",
+      "endDate": "2024-01-01",
+      "description": "Servicio de Windows que genera una factura a partir de un archivo de Excel, considerando el complemento de carta porte, este crea en Aspel SAE, documento de Factura, XML, listos para ser timbrados",
+      "highlights": [
+        "SAE","Facturación"
+      ],
+      "url": ""
+    },
+    {
+      "name": "MODULO DE COTIZACIÓN",
+      "startDate": "2023-05-01",
+      "endDate": "2023-08-01",
+      "description": "Sistema creado para una empresa el cual registra los pedidos que realizan a su proveedor en el extranjero, para calcular el rendimiento de dicho producto(tela), este sistema se conecta con Aspel SAE, llevando el control de los pedidos de los vendedores y ventas realizadas",
+      "highlights": [
+        "SAE","Procesos","Ventas"
+      ],
+      "url": ""
+    }
+    ]
+  }
