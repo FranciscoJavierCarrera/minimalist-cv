@@ -23,6 +23,15 @@ const hotkeys = ref([
     handler: () => {
       window.print();
     },
+  },{
+    id: "repo",
+    title: "Repositorio",
+    hotkey: "ctrl+l",
+    mdIcon: "",
+    secction:"Acciones",
+    handler: () => {
+      window.open('https://github.com/FranciscoJavierCarrera/minimalist-cv','_blank');
+    },
   },
   
 ]);
