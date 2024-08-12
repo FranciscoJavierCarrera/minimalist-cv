@@ -16,7 +16,8 @@ const props = defineProps({
 <style scoped>
 section {
   max-width: 700px;
-  margin: 0 auto 32px;
+  margin: 0 auto 10px;
+  min-width: 100%;
 }
 h2 {
   margin-bottom: 8px;

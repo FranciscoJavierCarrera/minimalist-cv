@@ -41,8 +41,8 @@ const props = defineProps({
   }
 
   article h3{
-    font-weight: 500;
     color: #111;
+    font-weight: 600;
   }
 
   article h4{

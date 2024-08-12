@@ -65,7 +65,8 @@ const props = defineProps({
         padding-right: 32px;
     }
     h1{
-        font-size: 2rem;
+        font-size: 1.8rem;
+        
     }
     h2{
         color: #444;
