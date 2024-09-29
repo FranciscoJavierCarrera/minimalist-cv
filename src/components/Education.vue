@@ -8,8 +8,8 @@
               <h4>{{ data.area }}</h4>
             </div>
             <time>
-              {{ new Date(data.startDate).getFullYear() }} - 
-              {{ data.endDate ? new Date(data.endDate).getFullYear() : 'Presente' }}
+              {{ new Date(data.startDate).toLocaleString('es-Mx', { month: 'short' })}} {{ new Date(data.startDate).getFullYear() }} - 
+              {{ data.endDate ? new Date(data.endDate).toLocaleString('es-Mx', { month: 'short' }) : '' }} {{ data.endDate ? new Date(data.endDate).getFullYear() : 'Presente' }}
             </time>
 
         </article>
