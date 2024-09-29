@@ -9,8 +9,8 @@
               <h4>{{ work.position }}</h4>
             </div>
             <time>
-              {{ new Date(work.startDate).getFullYear() }} - 
-              {{ work.endDate ? new Date(work.endDate).getFullYear() : 'Presente' }}
+              {{ new Date(work.startDate).toLocaleString('es-Mx', { month: 'short' }) }} {{ new Date(work.startDate).getFullYear() }} - 
+              {{ work.endDate ? new Date(work.endDate).toLocaleString('es-MX', { month: 'short' }) : '' }} {{ work.endDate ? new Date(work.endDate).getFullYear() : 'Presente' }}
             </time>
           </header>
           <footer>
