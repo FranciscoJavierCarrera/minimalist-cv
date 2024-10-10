@@ -1,5 +1,5 @@
 <template>
-    <Section title="Acerca de mi">
+    <Section title="About Me">
         <p>
             {{ data }}
         </p>

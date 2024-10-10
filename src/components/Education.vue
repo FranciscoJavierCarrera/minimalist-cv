@@ -1,5 +1,5 @@
 <template>
-  <Section title="Educación" >
+  <Section title="Education" >
 
         <article>
 

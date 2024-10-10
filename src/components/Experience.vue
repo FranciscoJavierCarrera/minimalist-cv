@@ -1,5 +1,5 @@
 <template>
-  <Section title="Experiencia">
+  <Section title="Experience">
     <ul>
       <li v-for="work in data" :key="work.name">
         <article>

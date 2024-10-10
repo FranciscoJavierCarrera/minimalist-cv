@@ -1,5 +1,5 @@
 <template>
-  <Section title="Habilidades">
+  <Section title="Skills">
     <div class="container">
       <ul v-for="skill in data" :key="skill.name" >
 

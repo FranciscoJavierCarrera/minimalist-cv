@@ -1,12 +1,12 @@
 {
     "basics": {
       "name": "Francisco Javier Carrera Huerta",
-      "label": "Desarrollador .Net Mid, FrontEnd Jr Vue.Js",
+      "label": "Developer .Net Mid, FrontEnd Jr Vue.Js",
       "image": "/me.webp",
       "email": "francisco.javier.carrera.huerta@hotmail.com",
       "phone": "(771) 416-5084",
       "url": "",
-      "summary": "Soy Desarrollador .Net con poco más de 5 años de experiencia, proactivo y autodidacta con un sólido conocimiento en el desarrollo de software. Mi enfoque se centra en el desarrollo backend utilizando tecnologías como .NET y .Net Core en C#, he trabajado con los estándares ASP .NET ASP .NET MVC 5 y Windows Forms con más de 5 años de experiencia; combinado con una fuerte habilidad en el desarrollo frontend JavaScript, bootstrap e iniciando en Vue.Js. Con un historial probado en la creación de soluciones eficientes y de alta calidad, estoy comprometido con la mejora continua y la búsqueda constante de nuevas habilidades. Mi pasión por la programación y la resolución de problemas me impulsa a ofrecer resultados en proyectos desafiantes. Actualmente en búsqueda de mi siguiente oportunidad que me permita desarrollar mis conocimientos en backend y frontend",
+      "summary": "I am a .NET Developer with just over 5 years of experience, proactive and self-taught with a solid knowledge of software development. My focus is on backend development using technologies such as .NET and .NET Core in C#. I have worked with ASP.NET, ASP.NET MVC 5, and Windows Forms standards with more than 5 years of experience, combined with strong skills in frontend development with JavaScript, Bootstrap, and starting in Vue.js. With a proven track record of creating efficient, high-quality solutions, I am committed to continuous improvement and constantly seeking new skills. My passion for programming and problem-solving drives me to deliver results in challenging projects. I am currently looking for my next opportunity that will allow me to further develop my backend and frontend knowledge.",
       "location": {
         "address": "",
         "postalCode": "42083",
@@ -29,11 +29,11 @@
     },
     "work": [{
       "name": "KOUD",
-      "position": "Desarrollador .Net",
+      "position": "Developer .Net",
       "url": "https://koud.mx/",
       "startDate": "2024-02-13",
       "endDate": "2024-09-30",
-      "summary": "Realice un sistema desde cero el backend para un sistema que mostraría información fiscal al usuario final, tales como sus CFDIs, declaraciones anuales, mensuales, et., conectando y controlando suscripciones con Mercado Pago, mi contrato fue por este proyecto finalizando la entrega de dicho proyecto.",
+      "summary": "I developed a system from scratch for the backend of a system that would display fiscal information to the end user, such as their CFDIs, annual and monthly tax returns, etc. I also integrated and managed subscriptions with Mercado Pago. My contract was for this project, and it concluded upon the delivery of the system.",
       "highlights": [
         "Started the company"
       ]
@@ -43,17 +43,17 @@
       "url": "",
       "startDate": "2023-08-01",
       "endDate": "2024-01-31",
-      "summary": "Desarrollé soluciones personalizadas para clientes, enfocadas en optimizar sus procesos. Durante esta etapa de mi carrera, creé un \"Módulo de Cotización\" para una empresa del sector comercial. Además, tuve la oportunidad de trabajar en mi primer proyecto con Vue.js, desarrollando un sistema de embarques para un cliente en el sector de la producción.",
+      "summary": "I developed customized solutions for clients, focused on optimizing their processes. During this stage of my career, I created a \"Quotation Module\" for a company in the commercial sector. Additionally, I had the opportunity to work on my first project with Vue.js, developing a shipping system for a client in the production sector.",
       "highlights": [
         "Started the company"
       ]
     },{
       "name": "TECAS",
-      "position": "Desarrollador .Net Core",
+      "position": "Developer .Net Core",
       "url": "https://tecreemos.com/",
       "startDate": "2022-05-16",
       "endDate": "2023-07-31",
-      "summary": "Me desenvolví como desarrollador .Net Core Backend, especialmente enfocado en producto individual, en esta area  realizaba tareas que implicaban cambios y ajustes en el backend para lacomunicación con servicios de terceros, también apoyando en soporte de incidencia relacionadas con dicho producto.",
+      "summary": " worked as a .NET Core Backend developer, primarily focused on individual products. In this area, I performed tasks involving changes and adjustments to the backend for communication with third-party services, and I also provided support for incidents related to that product.",
       "highlights": [
         "Started the company"
       ]
@@ -64,7 +64,7 @@
       "url": "https://alfasoluciones.com.mx/",
       "startDate": "2018-09-16",
       "endDate": "2022-05-15",
-      "summary": "Como consultor en desarrollos y desarrollador .Net, me inicie en el framework .NET y por parte del frontend trabajando con Angular  en esta empresa desde entonces desarrolle diferentes sistemas que interactúan con sistemas ASPEL SAE, COI y Banco, por mencionar algunos, portales de Pedidos, sistemas de producción, Kioskos de facturación, sistemas de timbrado,etc. Involucrado desde el levantamiento de requerimiento con el cliente, análisis y diseño de la solución, diseño de la base de datos, maquetación de la solución, desarrollo e implementación de este, hasta llegar al soporte.",
+      "summary": "As a consultant in development and a .NET developer, I started with the .NET framework and, on the frontend side, working with Angular. Since then, I have developed various systems that interact with ASPEL systems such as SAE, COI, and Banco, to name a few—order portals, production systems, invoicing kiosks, stamping systems, etc. I was involved in all stages, from gathering requirements with the client, analyzing and designing the solution, database design, solution prototyping, development, and implementation, all the way to support.",
       "highlights": [
         "Started the company"
       ]
@@ -72,7 +72,7 @@
     "education": {
       "institution": "Instituto Tecgologico de México campus Pachuca",
       "url": "https://itp.itpachuca.edu.mx/",
-      "area": "Ing en Sistemas Computacionales",
+      "area": "Computer Systems Engineer",
       "studyType": "Bachelor",
       "startDate": "2011-08-01",
       "endDate": "2016-12-01",
@@ -108,7 +108,7 @@
         "ASP .NET",
         "C#",
         "WINDOWS FORMS",
-        "SERVICIOS DE WINDOWS EN C#"
+        "WINDOWS SERVICES IN C#"
       ]
     },{
       "name": "DATA BASE",
@@ -119,53 +119,53 @@
         "FIREBIRD"
       ]
     },{
-      "name": "ADMINISTRACION DE PROYECTOS",
+      "name": "PROJECT MANAGEMENT",
       "level": "Middle",
       "keywords": [
-        "SCRUM","Github"
+        "SCRUM","Github","Azure DevOps"
       ]
     }],
     "languages": [{
-      "language": "Español",
-      "fluency": "Lengua Madre"
+      "language": "Spanish",
+      "fluency": "Mother Tongue"
     }],
     
     "projects": [{
-      "name": "SISTEMA DE PRODUCCIÓN",
+      "name": "PRODUCTION SYSTEM",
       "startDate": "2020-08-01",
       "endDate": "2023-08-01",
-      "description": "Sistema de producción que se conecta con Aspel SAE, para el alta, modificación de productos e inventario, el cual lleva el proceso de la creación del producto final (Envases), llevando el control de la materia prima, almacenes de consumo, plantas, portafolio de productos, ingresos a almacén, etc.",
+      "description": "A production system that connects with Aspel SAE for the creation and modification of products and inventory. This system manages the process of creating the final product (packaging), controlling raw materials, consumption warehouses, plants, product portfolios, warehouse entries, etc.",
       "highlights": [
-        "SAE","Producción"
+        "SAE","Production"
       ],
       "url": ""
     },{
-      "name": "SERVICIOS DE FACTURACIÓN",
+      "name": "BILLING SERVICES",
       "startDate": "2023-08-01",
       "endDate": "2024-01-01",
-      "description": "Servicio de Windows que genera una factura a partir de un archivo de Excel, considerando el complemento de carta porte, este crea en Aspel SAE, documento de Factura, XML, listos para ser timbrados",
+      "description": "A Windows Service that generates an invoice from an Excel file, taking into account the Carta Porte addendum. This service creates an invoice document in Aspel SAE, along with the XML files, ready to be stamped.",
       "highlights": [
-        "SAE","Facturación"
+        "SAE","Billing"
       ],
       "url": ""
     },
     {
-      "name": "MODULO DE COTIZACIÓN",
+      "name": "QUOTATION MODULE",
       "startDate": "2023-05-01",
       "endDate": "2023-08-01",
-      "description": "Sistema creado para una empresa el cual registra los pedidos que realizan a su proveedor en el extranjero, para calcular el rendimiento de dicho producto(tela), este sistema se conecta con Aspel SAE, llevando el control de los pedidos de los vendedores y ventas realizadas",
+      "description": "A system created for a company that records the orders placed with its foreign supplier to calculate the yield of that product (fabric). This system connects with Aspel SAE, managing the control of the salespeople's orders and the sales made.",
       "highlights": [
-        "SAE","Procesos","Ventas"
+        "SAE","Processes","Sales"
       ],
       "url": ""
     },
     {
-      "name": "SISTEMA DE EMBARQUES",
+      "name": "SHIPPING SYSTEM",
       "startDate": "2023-05-01",
       "endDate": "2024-01-31",
-      "description": "Sistema en arquitectura de microservicios que apoya en la logística de entrega a clientes y traspaso entre sucursales, conectado con Aspel SAE®, un sistema interno de almacén",
+      "description": "A microservices architecture system that supports logistics for customer deliveries and transfers between branches, connected to Aspel SAE®, an internal warehouse system.",
       "highlights": [
-        "SAE","Procesos","Logistica"
+        "SAE","Processes", "Logistics"
       ],
       "url": ""
     }
