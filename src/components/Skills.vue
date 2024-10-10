@@ -34,11 +34,6 @@ const props = defineProps({
 }
 
 
-li{
-  display: inline-flex;
-  gap: 10px;
-  flex-wrap: wrap;
-}
 p{
   border-radius: 6px;
   background: #eee;
@@ -48,6 +43,11 @@ p{
   padding: 0.2rem 0.6rem;
   margin-inline:  0.4rem;
   margin-bottom: 0.4rem;
+}
+li{
+  display: inline-flex;
+  gap: 10px;
+  flex-wrap: wrap;
 }
 span{
   border-radius: 6px;

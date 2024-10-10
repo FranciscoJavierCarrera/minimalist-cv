@@ -6,7 +6,7 @@
       "email": "francisco.javier.carrera.huerta@hotmail.com",
       "phone": "(771) 416-5084",
       "url": "",
-      "summary": "Soy Desarrollador .Net con poco más de 5 años de experiencia, proactivo y autodidacta con un sólido conocimiento en el desarrollo de software. Mi enfoque se centra en el desarrollo backend utilizando tecnologías como .NET y .Net Core en C#, he trabajado con los estándares ASP .NET ASP .NET MVC 5 y Windows Forms con más de 5 años de experiencia; combinado con una fuerte habilidad en el desarrollo frontend JavaScript, bootstrap e iniciando en Vue.Js. Con un historial probado en la creación de soluciones eficientes y de alta calidad, estoy comprometido con la mejora continua y la búsqueda constante de nuevas habilidades. Mi pasión por la programación y la resolución de problemas me impulsa a ofrecer resultados en proyectos desafiantes. Actualmente en búsqueda de mi siguiente oportunidad que me permita desarrollar mis conocimientos en backend y frontend",
+      "summary": "Soy Desarrollador .Net con poco más de 6 años de experiencia, proactivo y autodidacta con un sólido conocimiento en el desarrollo de software. Mi enfoque se centra en el desarrollo backend utilizando tecnologías como .NET y .Net Core en C#, he trabajado con los estándares ASP .NET ASP .NET MVC 5 y Windows Forms con más de 5 años de experiencia; combinado con una fuerte habilidad en el desarrollo frontend JavaScript, bootstrap e iniciando en Vue.Js. Con un historial probado en la creación de soluciones eficientes y de alta calidad, estoy comprometido con la mejora continua y la búsqueda constante de nuevas habilidades. Mi pasión por la programación y la resolución de problemas me impulsa a ofrecer resultados en proyectos desafiantes. Actualmente en búsqueda de mi siguiente oportunidad que me permita desarrollar mis conocimientos en backend y frontend",
       "location": {
         "address": "",
         "postalCode": "42083",
@@ -33,19 +33,19 @@
       "url": "https://koud.mx/",
       "startDate": "2024-02-13",
       "endDate": "2024-09-30",
-      "summary": "Realice un sistema desde cero el backend para un sistema que mostraría información fiscal al usuario final, tales como sus CFDIs, declaraciones anuales, mensuales, et., conectando y controlando suscripciones con Mercado Pago, mi contrato fue por este proyecto finalizando la entrega de dicho proyecto.",
+      "summary": "Realice el backend desde cero, para un sistema que mostraría información fiscal al usuario final, tales como sus CFDIs, declaraciones anuales, mensuales, etc.; conectando y controlando suscripciones con Mercado Pago, diseñando la base de datos en PostgreSQL con entityframework, documentado la API con Swagger mi contrato fue por este proyecto finalizando la entrega de dicho proyecto.",
       "highlights": [
-        "Started the company"
+        ".Net 8","Entityframework","Swagger","API Rest","Mercado Pago", "CFDI","PostgreSQL","Azure Devops"
       ]
     },{
-      "name": "Freelance",
+      "name": "Freelance (Terpel del Norte, Visapack)",
       "position": "Desarrollador .Net",
       "url": "",
       "startDate": "2023-08-01",
       "endDate": "2024-01-31",
-      "summary": "Desarrollé soluciones personalizadas para clientes, enfocadas en optimizar sus procesos. Durante esta etapa de mi carrera, creé un \"Módulo de Cotización\" para una empresa del sector comercial. Además, tuve la oportunidad de trabajar en mi primer proyecto con Vue.js, desarrollando un sistema de embarques para un cliente en el sector de la producción.",
+      "summary": "Desarrollé soluciones personalizadas para clientes, enfocadas en optimizar sus procesos. Durante esta etapa de mi carrera, creé un \"Módulo de Cotización\" para la empresa Terpel del norte. Además, tuve la oportunidad de trabajar en mi primer proyecto con Vue.js, desarrollando un sistema de embarques para un cliente en el sector de la producción ambos proyectos fueron creados en arquitectura limpia, con .Net 7 conectado con dos bases de datos la primera que es la base principal del sistema en SQL Server y l segunda una conexión a la base de datos de Aspel SAE® en Firebird.",
       "highlights": [
-        "Started the company"
+        ".Net 7","Entityframework","Swagger","API Rest","Firebird", "Aspel SAE","SQL Server","Github"
       ]
     },{
       "name": "TECAS",
@@ -55,7 +55,7 @@
       "endDate": "2023-07-31",
       "summary": "Me desenvolví como desarrollador .Net Core Backend, especialmente enfocado en producto individual, en esta area  realizaba tareas que implicaban cambios y ajustes en el backend para lacomunicación con servicios de terceros, también apoyando en soporte de incidencia relacionadas con dicho producto.",
       "highlights": [
-        "Started the company"
+        ".Net core 3.1","Entityframework","Swagger","API Rest","SQL Server"
       ]
     },
     {
@@ -66,7 +66,7 @@
       "endDate": "2022-05-15",
       "summary": "Como consultor en desarrollos y desarrollador .Net, me inicie en el framework .NET y por parte del frontend trabajando con Angular  en esta empresa desde entonces desarrolle diferentes sistemas que interactúan con sistemas ASPEL SAE, COI y Banco, por mencionar algunos, portales de Pedidos, sistemas de producción, Kioskos de facturación, sistemas de timbrado,etc. Involucrado desde el levantamiento de requerimiento con el cliente, análisis y diseño de la solución, diseño de la base de datos, maquetación de la solución, desarrollo e implementación de este, hasta llegar al soporte.",
       "highlights": [
-        "Started the company"
+        "Asp .Net MVC",".Net core 3.1","WindowsForms","Entityframework","Swagger","API Rest","Firebird", "Aspel SAE","SQL Server"
       ]
     }],
     "education": {
@@ -122,7 +122,7 @@
       "name": "ADMINISTRACION DE PROYECTOS",
       "level": "Middle",
       "keywords": [
-        "SCRUM","Github"
+        "SCRUM","Github","Azure DevOps"
       ]
     }],
     "languages": [{

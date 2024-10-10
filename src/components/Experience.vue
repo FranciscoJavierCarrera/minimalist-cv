@@ -15,6 +15,15 @@
           </header>
           <footer>
             <p>{{ work.summary }}</p>
+            <br/>
+            <h4>Aspectos destacados</h4>
+            <div class="container">
+                <li class="highlights" v-for="word in work.highlights" :key="word">
+                  <span>{{ word }}</span>
+                </li>
+            </div>
+
+
           </footer>
         </article>
       </li>
@@ -60,4 +69,24 @@ const props = defineProps({
     color: #555;
     font-size: 0%85rem ;
   }
+  .highlights{
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+span{
+  border-radius: 6px;
+  background: #eee;
+  color: black;
+  font-size: 0.7rem;
+  font-weight: 500;
+  padding: 0.2rem 0.2rem;
+  margin-inline:  0.2rem;
+  margin-bottom: 0.1rem;
+}
+.container {
+  display: grid;
+  grid-template-columns: repeat(8, auto);
+  gap: .5rem;
+}
 </style>
