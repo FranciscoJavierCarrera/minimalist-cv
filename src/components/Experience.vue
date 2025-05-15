@@ -18,7 +18,7 @@
             <br/>
             <h4>Aspectos destacados</h4>
             <div class="container">
-                <li class="highlights" v-for="word in work.highlights" :key="word">
+                <li class="keywords" v-for="word in work.keywords" :key="word">
                   <span>{{ word }}</span>
                 </li>
             </div>

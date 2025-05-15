@@ -6,7 +6,7 @@
       "email": "francisco.javier.carrera.huerta@hotmail.com",
       "phone": "(771) 416-5084",
       "url": "",
-      "summary": "Soy Desarrollador .Net con poco más de 6 años de experiencia, proactivo y autodidacta con un sólido conocimiento en el desarrollo de software. Mi enfoque se centra en el desarrollo backend utilizando tecnologías como .NET y .Net Core en C#, he trabajado con los estándares ASP .NET ASP .NET MVC 5 y Windows Forms con más de 5 años de experiencia; combinado con una fuerte habilidad en el desarrollo frontend JavaScript, bootstrap e iniciando en Vue.Js. Con un historial probado en la creación de soluciones eficientes y de alta calidad, estoy comprometido con la mejora continua y la búsqueda constante de nuevas habilidades. Mi pasión por la programación y la resolución de problemas me impulsa a ofrecer resultados en proyectos desafiantes. Actualmente en búsqueda de mi siguiente oportunidad que me permita desarrollar mis conocimientos en backend y frontend",
+      "summary": "Soy Desarrollador .Net activo desde el 2018, proactivo, resiliente y creativo, cada día me esmero en ser una mejor versión de mi tanto profesional como personalmente, me gusta apoyar a mis compañeros de equipo, soy fiel creyente de que todos podemos aprender de todos, mi experiencia se ha enfocado en el backend con tecnologías como .Net y .Net Core en C#; sin limitarme también he aprendió frontend en frameworks como Angular y Vuejs. Creando soluciones web y de escritorio según los requerimientos de los proyectos, mi pasión por la programación me impulsa a mantenerme actualizado.",
       "location": {
         "address": "",
         "postalCode": "42083",
@@ -28,6 +28,19 @@
       ]
     },
     "work": [{
+      "name": "Freelance",
+      "position": "Desarrollador .Net, FrontEnd VueJs",
+      "url": "",
+      "startDate": "2024-08-01",
+      "endDate": "",
+      "summary": "Actualmente soy freelance, realizo proyectos para PYME's donde he reaizado pequeños proyectos como servicios que se conectan a Aspel SAE, el frontend para un sistema de embarques.",
+      "highlights": [
+        ""
+      ],
+	  "keywords": [
+        ".Net 8","VueJs","Angular","Swagger","API Rest", "CFDI","MySql","SqlServer","Firebird","SCRUM"
+      ]
+    },{
       "name": "KOUD",
       "position": "Desarrollador .Net",
       "url": "https://koud.mx/",
@@ -35,6 +48,9 @@
       "endDate": "2024-09-30",
       "summary": "Realice el backend desde cero, para un sistema que mostraría información fiscal al usuario final, tales como sus CFDIs, declaraciones anuales, mensuales, etc.; conectando y controlando suscripciones con Mercado Pago, diseñando la base de datos en PostgreSQL con entityframework, documentado la API con Swagger mi contrato fue por este proyecto finalizando la entrega de dicho proyecto.",
       "highlights": [
+        ""
+      ],
+	  "keywords": [
         ".Net 8","Entityframework","Swagger","API Rest","Mercado Pago", "CFDI","PostgreSQL","Azure Devops"
       ]
     },{
@@ -45,6 +61,9 @@
       "endDate": "2024-01-31",
       "summary": "Desarrollé soluciones personalizadas para clientes, enfocadas en optimizar sus procesos. Durante esta etapa de mi carrera, creé un \"Módulo de Cotización\" para la empresa Terpel del norte. Además, tuve la oportunidad de trabajar en mi primer proyecto con Vue.js, desarrollando un sistema de embarques para un cliente en el sector de la producción ambos proyectos fueron creados en arquitectura limpia, con .Net 7 conectado con dos bases de datos la primera que es la base principal del sistema en SQL Server y l segunda una conexión a la base de datos de Aspel SAE® en Firebird.",
       "highlights": [
+        ""
+      ],
+	  "keywords": [
         ".Net 7","Entityframework","Swagger","API Rest","Firebird", "Aspel SAE","SQL Server","Github"
       ]
     },{
@@ -55,6 +74,9 @@
       "endDate": "2023-07-31",
       "summary": "Me desenvolví como desarrollador .Net Core Backend, especialmente enfocado en producto individual, en esta area  realizaba tareas que implicaban cambios y ajustes en el backend para lacomunicación con servicios de terceros, también apoyando en soporte de incidencia relacionadas con dicho producto.",
       "highlights": [
+        ""
+      ],
+	  "keywords": [
         ".Net core 3.1","Entityframework","Swagger","API Rest","SQL Server"
       ]
     },
@@ -66,7 +88,10 @@
       "endDate": "2022-05-15",
       "summary": "Como consultor en desarrollos y desarrollador .Net, me inicie en el framework .NET y por parte del frontend trabajando con Angular  en esta empresa desde entonces desarrolle diferentes sistemas que interactúan con sistemas ASPEL SAE, COI y Banco, por mencionar algunos, portales de Pedidos, sistemas de producción, Kioskos de facturación, sistemas de timbrado,etc. Involucrado desde el levantamiento de requerimiento con el cliente, análisis y diseño de la solución, diseño de la base de datos, maquetación de la solución, desarrollo e implementación de este, hasta llegar al soporte.",
       "highlights": [
-        "Asp .Net MVC",".Net core 3.1","WindowsForms","Entityframework","Swagger","API Rest","Firebird", "Aspel SAE","SQL Server"
+        ""
+      ],
+	  "keywords": [
+        "Asp .Net MVC",".Net core 3.1","WindowsForms","Entityframework","Swagger","API Rest","Firebird", "Aspel SAE","SQL Server","ADO .NET"
       ]
     }],
     "education": {
